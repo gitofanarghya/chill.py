@@ -3,7 +3,7 @@ moves the mouse around while you chill.... :D
 
 
 Prerequisites:
-python2.7
+python2.7,
 pip
 
 
